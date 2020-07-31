@@ -1,3 +1,4 @@
 {
+    "baseUrl" : "http://a.testaddressbook.com",
     "-watchForFileChanges" : false
 }

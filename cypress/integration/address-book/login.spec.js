@@ -4,7 +4,7 @@ import * as homePage from "../../page-object/home-page"
 describe('login', () => {
 
     beforeEach('navigate to application', function() {
-        cy.visit();
+        cy.visit(Cypress.config("baseUrl"));
     })
 
     it('invalid login verification', function() {

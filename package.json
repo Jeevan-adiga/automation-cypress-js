@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Jeevan-adiga/automation-cypress-js#readme",
   "devDependencies": {
     "cypress": "^4.11.0"
+  },
+  "dependencies": {
+    "faker": "^4.1.0"
   }
 }
